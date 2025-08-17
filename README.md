@@ -7,7 +7,7 @@
 ---
 
 ## 🔭 About Me
-- 🎓 Studying **Computer Science**
+- 🎓 Studying **Master of comuting and Innovation**
 - 💡 Interested in **AI, Data Mining, Web Development**
 - 🌱 Currently learning **Next.js, Cloud Computing, and Machine Learning**
 - 🤝 Open to collaborating on interesting projects and hackathons
@@ -26,18 +26,6 @@
 
 ---
 
-## 📌 Featured Projects
-- 🔹 [Interview Hub](https://github.com/zihanlu2025/Interview-Hub) – Practice platform built with **TypeScript**  
-- 🔹 [AI Pattern Replacer](https://github.com/zihanlu2025/AI-Pattern-Replacer) – Experimenting with **Python + Regex + NLP**  
-- 🔹 [Mining Big Data](https://github.com/zihanlu2025/Mining-big-data) – Coursework project with **Jupyter Notebook**  
-
----
-
-## 📊 GitHub Stats
-![Zihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=zihanlu2025&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zihanlu2025&layout=compact&theme=radical)
-
----
 
 ## 🤝 Connect with Me
 - 📫 Email: **zihan.luo@outlook.com**  
