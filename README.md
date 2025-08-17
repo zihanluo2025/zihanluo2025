@@ -28,9 +28,9 @@
 
 
 ## 🤝 Connect with Me
-- 📫 Email: **zihan.luo@outlook.com**  
+- 📫 Email: **zihan.luo2025@outlook.com**  
 - 💼 LinkedIn: *[your LinkedIn link]*  
 - 📝 Blog: [CSDN](https://blog.csdn.net/u010328533?spm=1000.2115.3001.5343)
 
 ---
-⭐️ From [zihanlu2025](https://github.com/zihanlu2025)
+⭐️ From [zihanluo2025](https://github.com/zihanluo2025)
