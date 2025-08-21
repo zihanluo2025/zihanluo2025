@@ -1,19 +1,22 @@
 # Hi there 👋 I'm Zihan
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=500&lines=Software+Engineer;Data+Science+Enthusiast;Lifelong+Learner)](https://git.io/typing-svg)
+💻 Full-Stack Developer Intern | Former Front-End Engineer (4+ yrs)  
+🎓 Master’s Student @ University of Adelaide  
+🌏 From China, now based in Australia  
+🚀 Passionate about AI, DevOps, and Scalable Web Applications
 
-🌏 Based in Adelaide | 💻 Aspiring Software Engineer | 🎓 Student @ University of Adelaide  
 
----
+## About Me
 
-## 🔭 About Me
-- 🎓 Studying **Master of comuting and Innovation**
-- 💡 Interested in **AI, Data Mining, Web Development**
-- 🌱 Currently learning **Next.js, Cloud Computing, and Machine Learning**
-- 🤝 Open to collaborating on interesting projects and hackathons
+- 🎓 Master of Computing and Innovation @ University of Adelaide (2024–2025)
+- 👨‍💻 4 years of full-time experience in frontend development (Vue, React, DevOps tools)
+- 🤖 Currently exploring full-stack development, AI systems, and cloud-native apps
+- 📊 Past work includes scalable dashboards, CI/CD systems, and predictive ML projects
+- 🧪 Interning at an AI startup — building backend APIs, frontend UIs, and monitoring systems (Docker, Kubernetes, Prometheus)
+- 🌱 Always eager to learn, grow, and build impactful systems
 - ✍️ Writing on [CSDN](https://blog.csdn.net/u010328533?spm=1000.2115.3001.5343) | [Xiaohongshu](https://www.xiaohongshu.com/user/profile/60936340100000000100b71a)
 
----
+
 
 ## ⚡ Skills & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -24,13 +27,23 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
----
+
+**Languages & Frameworks**:  
+Vue.js · React.js · JavaScript · TypeScript · Python · Java
+
+**DevOps & Infra**:  
+Docker · Kubernetes · Jenkins · Git · Prometheus · InfluxDB · Grafana
+
+**Database**:  
+MySQL · Redis
+
+**Others**:  
+CI/CD · Agile · Micro-Frontend Architecture · ECharts · D3.js
 
 
-## 🤝 Connect with Me
-- 📫 Email: **zihan.luo2025@outlook.com**  
-- 💼 LinkedIn: *[your LinkedIn link]*  
-- 📝 Blog: [CSDN](https://blog.csdn.net/u010328533?spm=1000.2115.3001.5343)
+## 📫 Connect with Me
 
----
-⭐️ From [zihanluo2025](https://github.com/zihanluo2025)
+- Email: [zihan.luo2025@outlook.com](mailto:zihan.luo2025@outlook.com)
+- LinkedIn: [linkedin.com/in/zihan-luo-3a848b346](https://www.linkedin.com/in/zihan-luo-3a848b346/)
+- Blog: [CSDN](https://your_csdn_link_here)
+
