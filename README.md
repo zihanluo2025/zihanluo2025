@@ -14,7 +14,7 @@
 - 📊 Past work includes scalable dashboards, CI/CD systems, and predictive ML projects
 - 🧪 Interning at an AI startup — building backend APIs, frontend UIs, and monitoring systems (Docker, Kubernetes, Prometheus)
 - 🌱 Always eager to learn, grow, and build impactful systems
-- ✍️ Writing on [CSDN](https://blog.csdn.net/u010328533?spm=1000.2115.3001.5343) | [Xiaohongshu](https://www.xiaohongshu.com/user/profile/60936340100000000100b71a)
+- ✍️ Writing on [CSDN](https://blog.csdn.net/u010328533?spm=1000.2115.3001.5343) 
 
 
 
