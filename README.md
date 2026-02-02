@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Zihan
 
 💻 Full-Stack Developer | Former P4 Front-End Engineer (4+ yrs)  
-🎓 Master’s Student @ University of Adelaide  
+🎓 Graduated @ University of Adelaide  
 🌏 From China, now based in Australia  
 🚀 Passionate about AI, DevOps, and Scalable Web Applications
 
