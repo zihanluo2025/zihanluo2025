@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Zihan
 
-💻 Full-Stack Developer | Former P4 Front-End Engineer (4+ yrs)  
+💻 Full-Stack Developer |  Developer programer (4+ yrs)  
 🎓 Graduated @ University of Adelaide  
 🌏 From China, now based in Australia  
 🚀 Passionate about AI, DevOps, and Scalable Web Applications
@@ -9,7 +9,7 @@
 ## About Me
 
 - 🎓 Master of Computing and Innovation @ University of Adelaide (2024–2025)
-- 👨‍💻 4 years of full-time experience in frontend development (Vue, React, DevOps tools)
+- 👨‍💻 4 years of full-time experience in software development (Vue, React, DevOps tools)
 - 🤖 Currently exploring full-stack development, AI systems, and cloud-native apps
 - 📊 Past work includes scalable dashboards, CI/CD systems, and predictive ML projects
 - 🧪 Interning at an AI startup — building backend APIs, frontend UIs, and monitoring systems (Docker, Kubernetes, Prometheus)
