@@ -2,7 +2,6 @@
 
 💻 Full-Stack Developer |  Developer programer (4+ yrs)  
 🎓 Graduated @ University of Adelaide  
-🌏 From China, now based in Australia  
 🚀 Passionate about AI, DevOps, and Scalable Web Applications
 
 
