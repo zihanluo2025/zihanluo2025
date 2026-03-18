@@ -8,7 +8,7 @@
 ## About Me
 
 - 🎓 Master of Computing and Innovation @ University of Adelaide (2024–2025)
-- 👨‍💻 4 years of full-time experience in software development (Vue, React, DevOps tools)
+- 👨‍💻 4 years of full-time experience in software development (C#, React, DevOps tools)
 - 🤖 Currently exploring full-stack development, AI systems, and cloud-native apps
 - 📊 Past work includes scalable dashboards, CI/CD systems, and predictive ML projects
 - 🧪 Interning at an AI startup — building backend APIs, frontend UIs, and monitoring systems (Docker, Kubernetes, Prometheus)
