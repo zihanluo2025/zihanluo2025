@@ -64,7 +64,7 @@
 ## 📫 Connect with Me
 
 - Email: [zihan.luo2025@outlook.com](mailto:zihan.luo2025@outlook.com)
-- LinkedIn: [linkedin.com/in/zihan-luo-3a848b346](https://www.linkedin.com/in/zihan-luo-3a848b346/)
+- LinkedIn: [linkedin.com/in/zihan-swe](https://www.linkedin.com/in/zihan-swe/)
 - Blog: [CSDN](https://your_csdn_link_here)
 - Site: https://www.luozihan.space/
 
