@@ -65,6 +65,6 @@
 
 - Email: [zihan.luo2025@outlook.com](mailto:zihan.luo2025@outlook.com)
 - LinkedIn: [linkedin.com/in/zihan-swe](https://www.linkedin.com/in/zihan-swe/)
-- Blog: [CSDN](https://your_csdn_link_here)
+- Blog: [CSDN](https://blog.csdn.net/u010328533?spm=1000.2115.3001.10640)
 - Site: https://www.luozihan.space/
 
